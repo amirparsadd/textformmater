@@ -64,7 +64,37 @@ const font = {
         .replace("b","🄱")
         .replace("n","🄽")
         .replace("m","🄼")
+    },
+    "circle":function(text){
+        return text
+        .replace("q","ⓠ")
+        .replace("w","ⓦ")
+        .replace("e","ⓔ")
+        .replace("r","ⓡ")
+        .replace("t","ⓣ")
+        .replace("y","ⓨ")
+        .replace("u","ⓤ")
+        .replace("i","ⓘ")
+        .replace("o","ⓞ")
+        .replace("p","ⓟ")
+        .replace("a","ⓐ")
+        .replace("s","ⓢ")
+        .replace("d","ⓓ")
+        .replace("f","ⓕ")
+        .replace("g","ⓖ")
+        .replace("h","ⓗ")
+        .replace("j","ⓙ")
+        .replace("k","ⓚ")
+        .replace("l","ⓛ")
+        .replace("z","ⓩ")
+        .replace("x","ⓧ")
+        .replace("c","ⓒ")
+        .replace("v","ⓥ")
+        .replace("b","ⓑ")
+        .replace("n","ⓝ")
+        .replace("m","ⓜ")
     }
+
 }
 
 module.exports = {
