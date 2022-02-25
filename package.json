@@ -1,0 +1,24 @@
+{
+  "name": "textformmater",
+  "version": "1.0.0",
+  "description": "A tool that adds new stuff for changing text",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "textformmater"
+  },
+  "keywords": [
+    "text",
+    "format",
+    "tool",
+    "font",
+    "text format tool",
+    "text formater",
+    "text font"
+  ],
+  "author": "amirparsaDD",
+  "license": "ISC"
+}
